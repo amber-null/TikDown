@@ -1,0 +1,16 @@
+name: TikDown
+description: A TikTok video downloader web app.
+version: 1.0.0+1
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  url_launcher: ^6.2.5
+
+flutter:
+  uses-material-design: true
