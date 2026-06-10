@@ -1,0 +1,11 @@
+{
+    "name": "TikDown",
+    "short_name": "TikDown",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#FFDF00",
+    "description": "TikTok Video Downloader",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
